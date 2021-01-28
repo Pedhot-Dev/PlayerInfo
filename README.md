@@ -8,3 +8,8 @@ we have also provided an API for developers
 ```php
 use pedhot\PlayerInfo\API;
 ```
+
+### Basic usage for API
+```php
+API::getDevice($player);
+```
