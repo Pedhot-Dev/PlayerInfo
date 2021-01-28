@@ -19,3 +19,5 @@ API::getTotalTime($player);
 API::getSessionTime($player);
 ```
 And much more
+
+for ```php getPlayerRank($player); ``` require PurePerms plugin
