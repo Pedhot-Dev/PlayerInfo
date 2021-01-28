@@ -17,7 +17,7 @@ API::getPlayerRank($player);
 API::getMoney($player);
 API::getTotalTime($player);
 API::getSessionTime($player);
-```
 And much more
+```
 
 for ```getPlayerRank($player); getMoney($player); ``` and more,  requires third party plugins
