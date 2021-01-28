@@ -5,4 +5,6 @@ A PocketMine Plugin to get a Player Information
 we have also provided an API for developers
 
 ### Require Import for API
-```use pedhot\PlayerInfo\API;```
+```
+use pedhot\PlayerInfo\API;
+```
