@@ -20,4 +20,5 @@ API::getSessionTime($player);
 ```
 And much more
 
-for ```php getPlayerRank($player); ``` require PurePerms plugin
+for ```php
+getPlayerRank($player); ``` require PurePerms plugin
