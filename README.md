@@ -12,4 +12,10 @@ use pedhot\PlayerInfo\API;
 ### Basic usage for API
 ```php
 API::getDevice($player);
+API::getOs($player);
+API::getPlayerRank($player);
+API::getMoney($player);
+API::getTotalTime($player);
+API::getSessionTime($player);
 ```
+And much more
