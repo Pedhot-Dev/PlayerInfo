@@ -1,0 +1,17 @@
+hit-ui:
+  # enabled: true or false?
+  enabled: true
+  world-name: world
+
+# Indonesia = ind
+# English = eng
+language: eng
+
+form:
+  select-player:
+    title: "Player Info"
+    content: "Select player"
+
+  selected-player:
+    title: "{PLAYER}'s Info"
+    content: "Device: {DEVICE}\nOs: {OS}"

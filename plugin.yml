@@ -1,0 +1,18 @@
+name: PlayerInfo
+api: 3.0.0
+version: 1.0
+author: PedhotDev
+main: pedhot\PlayerInfo\PlayerInfo
+
+permissions:
+  playerinfo:
+    default: op
+    description: "Allows using all the PlayerInfo things"
+    children:
+      playerinfo.command:
+        default: op
+        description: "Allows using all the PlayerInfo command"
+        children:
+          playerinfo.command.playerinfo:
+            default: true
+            description: "Allows using /playerinfo command"
